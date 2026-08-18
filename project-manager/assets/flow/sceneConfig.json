@@ -1,0 +1,33 @@
+{
+  "scenes": [
+    {
+      "id": "scene-pele-1",
+      "title": "Pelé - O Rei do Futebol",
+      "duration": "00:00:15",
+      "backgroundColor": "#009c3b",
+      "elements": [
+        {
+          "type": "text",
+          "content": "Pelé",
+          "position": { "x": 0.5, "y": 0.2 },
+          "font": { "family": "Inter", "size": 64, "color": "#ffdf00", "weight": "bold" },
+          "animation": "slideInDown"
+        },
+        {
+          "type": "text",
+          "content": "O Atleta do Século",
+          "position": { "x": 0.5, "y": 0.35 },
+          "font": { "family": "Inter", "size": 36, "color": "#ffffff" },
+          "animation": "fadeIn"
+        },
+        {
+          "type": "image",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pel%C3%A9_1966.jpg",
+          "position": { "x": 0.5, "y": 0.65 },
+          "size": { "width": 0.4, "height": 0.4 },
+          "animation": "zoomIn"
+        }
+      ]
+    }
+  ]
+}

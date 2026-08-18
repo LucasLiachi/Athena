@@ -1,0 +1,11 @@
+name: Projecterus Launch Squad
+description: >
+  Squad responsible for premium UI/UX design, project planning, and software release
+  for the Athena SaaS platform.
+pipeline:
+  - step: design_ui
+    agent: ux_ui_designer
+  - step: plan_project
+    agent: project_manager
+  - step: prepare_release
+    agent: launch_specialist

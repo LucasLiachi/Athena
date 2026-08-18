@@ -1,0 +1,44 @@
+{
+  "squad": "projecterus",
+  "status": "idle",
+  "step": {
+    "current": 0,
+    "total": 3,
+    "label": ""
+  },
+  "agents": [
+    {
+      "id": "ux_ui_designer",
+      "name": "UX/UI Designer",
+      "icon": "🎨",
+      "status": "idle",
+      "desk": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "id": "project_manager",
+      "name": "Project Manager",
+      "icon": "📋",
+      "status": "idle",
+      "desk": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "id": "launch_specialist",
+      "name": "Launch Specialist",
+      "icon": "🚀",
+      "status": "idle",
+      "desk": {
+        "col": 3,
+        "row": 1
+      }
+    }
+  ],
+  "handoff": null,
+  "startedAt": null,
+  "updatedAt": "2026-08-11T21:14:26-03:00"
+}

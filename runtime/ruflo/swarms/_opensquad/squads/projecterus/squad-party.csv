@@ -1,0 +1,4 @@
+role,agent_file
+UX/UI Designer,agents/ux_ui_designer.agent.md
+Project Manager,agents/project_manager.agent.md
+Launch Specialist,agents/launch_specialist.agent.md

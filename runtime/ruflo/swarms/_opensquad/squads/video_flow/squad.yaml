@@ -1,0 +1,14 @@
+name: Video Flow Squad
+description: >
+  Squad responsável por criar, editar e publicar vídeos e imagens usando Google Flow e outras ferramentas de edição.
+pipeline:
+  - step: gather_assets
+    agent: asset_gatherer
+  - step: create_flow_scenes
+    agent: google_flow_connector
+  - step: edit_video
+    agent: video_editor
+  - step: edit_images
+    agent: image_editor
+  - step: review_and_publish
+    agent: content_reviewer

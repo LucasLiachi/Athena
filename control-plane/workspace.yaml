@@ -1,0 +1,10 @@
+workspace:
+  name: athena
+
+control_plane:
+  path: .
+
+execution_planes:
+  - id: application
+    path: ../application
+    type: web

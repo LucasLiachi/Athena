@@ -1,0 +1,13 @@
+name: Clinicalys Squad
+description: >
+  Squad especialista em Instagram, análise de mercado, procedimentos estéticos e corporais,
+  e conta com um desenvolvedor especialista.
+pipeline:
+  - step: analyze_market
+    agent: market_analyst
+  - step: plan_instagram_strategy
+    agent: instagram_specialist
+  - step: define_aesthetic_procedures
+    agent: aesthetics_specialist
+  - step: develop_solutions
+    agent: expert_developer

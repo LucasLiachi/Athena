@@ -1,0 +1,6 @@
+name: Jira Timesheet Squad
+description: >
+  Squad responsável por analisar, registrar e gerenciar timesheets e horas no Jira.
+pipeline:
+  - step: log_time
+    agent: jira_agent

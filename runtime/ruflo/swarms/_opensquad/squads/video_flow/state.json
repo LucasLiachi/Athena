@@ -1,0 +1,21 @@
+{
+  "squad": "video_flow",
+  "status": "completed",
+  "step": { "current": 5, "total": 5, "label": "review_and_publish" },
+  "agents": [
+    { "id": "asset_gatherer", "name": "Asset Gatherer", "icon": "📥", "status": "done", "desk": { "col": 1, "row": 1 } },
+    { "id": "google_flow_connector", "name": "Google Flow Connector", "icon": "🔗", "status": "done", "desk": { "col": 2, "row": 1 } },
+    { "id": "video_editor", "name": "Video Editor", "icon": "🎬", "status": "done", "desk": { "col": 3, "row": 1 } },
+    { "id": "image_editor", "name": "Image Editor", "icon": "🖼️", "status": "done", "desk": { "col": 1, "row": 2 } },
+    { "id": "content_reviewer", "name": "Content Reviewer", "icon": "✅", "status": "done", "desk": { "col": 2, "row": 2 } }
+  ],
+  "handoff": {
+    "from": "image_editor",
+    "to": "content_reviewer",
+    "message": "Imagens editadas com sucesso.",
+    "completedAt": "2026-08-07T23:22:50-03:00"
+  },
+  "startedAt": "2026-08-07T23:15:20-03:00",
+  "updatedAt": "2026-08-07T23:23:10-03:00",
+  "completedAt": "2026-08-07T23:23:10-03:00"
+}

@@ -1,0 +1,15 @@
+name: "Pipeline de Lançamento ProjectFlow"
+version: "1.0.0"
+steps:
+  - file: steps/step-01-governar-lancamento.md
+  - file: steps/step-02-auditar-prontidao-ux.md
+  - file: steps/step-03-aprovar-prioridades.md
+  - file: steps/step-04-planejar-campanha.md
+  - file: steps/step-05-aprovar-campanha.md
+  - file: steps/step-06-revisar-lancamento.md
+  - file: steps/step-07-decisao-go-no-go.md
+checkpoints:
+  - step-03-aprovar-prioridades
+  - step-05-aprovar-campanha
+  - step-07-decisao-go-no-go
+

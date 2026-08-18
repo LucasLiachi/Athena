@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "Control Plane",
+      "path": "../control-plane"
+    },
+    {
+      "name": "Project Manager",
+      "path": "../project-manager"
+    },
+    {
+      "name": "Runtime",
+      "path": "../runtime"
+    }
+  ],
+  "settings": {}
+}

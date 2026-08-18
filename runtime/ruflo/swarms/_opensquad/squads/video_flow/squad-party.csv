@@ -1,0 +1,6 @@
+path,displayName,icon
+./agents/asset_gatherer.agent.md,Asset Gatherer,📥
+./agents/google_flow_connector.agent.md,Google Flow Connector,🔗
+./agents/video_editor.agent.md,Video Editor,🎬
+./agents/image_editor.agent.md,Image Editor,🖼️
+./agents/content_reviewer.agent.md,Content Reviewer,✅

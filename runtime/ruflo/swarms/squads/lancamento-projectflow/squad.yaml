@@ -1,0 +1,21 @@
+code: lancamento-projectflow
+name: "Lançamento ProjectFlow"
+description: "Squad para preparar produto, operação e campanha do lançamento do ProjectFlow."
+version: "1.0.0"
+language: "pt-BR"
+pipeline: pipeline/pipeline.yaml
+agents:
+  - marina-mercado
+  - paulo-projetos
+  - ursula-usabilidade
+  - renata-revisao
+skills:
+  - web_search
+  - web_fetch
+data:
+  - pipeline/data/research-brief.md
+  - pipeline/data/domain-framework.md
+  - pipeline/data/quality-criteria.md
+  - pipeline/data/output-examples.md
+  - pipeline/data/anti-patterns.md
+  - pipeline/data/tone-of-voice.md

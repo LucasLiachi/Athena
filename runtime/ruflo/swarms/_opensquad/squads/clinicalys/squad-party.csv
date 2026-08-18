@@ -1,0 +1,5 @@
+role,agent_file
+Market Analyst,agents/market_analyst.agent.md
+Instagram Specialist,agents/instagram_specialist.agent.md
+Aesthetics Specialist,agents/aesthetics_specialist.agent.md
+Expert Developer,agents/expert_developer.agent.md

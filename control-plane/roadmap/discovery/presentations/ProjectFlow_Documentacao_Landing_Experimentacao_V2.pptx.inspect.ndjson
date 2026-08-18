@@ -1,0 +1,385 @@
+{"kind":"deck","id":"pr/jobd6a","name":"Deck"}
+{"kind":"layout","layoutId":"a2398717-8df8-43a4-bf90-f0037033ef9c","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"63dd84fb-3843-47ab-81d1-52a1cf962310","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/nkksmm","slide":1,"title":"PROJECTFLOW","textShapes":6}
+{"kind":"textbox","id":"sh/7excnaxo","slide":1,"text":"PROJECTFLOW","textPreview":"PROJECTFLOW","textChars":11,"textLines":1,"bbox":[42,40,360,30]}
+{"kind":"textbox","id":"sh/8z6twfy9","slide":1,"text":"Landing de\nexperimentação","textPreview":"Landing de | experimentação","textChars":25,"textLines":2,"bbox":[42,166,760,180]}
+{"kind":"textbox","id":"sh/90zupkfu","slide":1,"text":"Documentação funcional e técnica ampliada","textPreview":"Documentação funcional e técnica ampliada","textChars":41,"textLines":1,"bbox":[42,390,700,50]}
+{"kind":"textbox","id":"sh/y9obqlg7","slide":1,"text":"Objetivo · experiência · regras · arquitetura · qualidade · evolução","textPreview":"Objetivo · experiência · regras · arquitetura · qualidade · evolução","textChars":68,"textLines":1,"bbox":[42,470,780,60]}
+{"kind":"shape","id":"sh/zaxcjqxs","slide":1,"bbox":[1010,40,228,228]}
+{"kind":"textbox","id":"sh/kb6tsvyx","slide":1,"text":"PF","textPreview":"PF","textChars":2,"textLines":1,"bbox":[1010,82,228,110]}
+{"kind":"textbox","id":"sh/lcful0fi","slide":1,"text":"Versão 2 · 06 agosto 2026","textPreview":"Versão 2 · 06 agosto 2026","textChars":25,"textLines":1,"bbox":[42,640,500,26]}
+{"kind":"notes","id":"nt/nkksmm","slide":1,"text":"[Sources]\n- docs/superpowers/specs/2026-08-06-landing-experimentacao-design.md\n[/Sources]"}
+{"kind":"slide","id":"sl/16vycl","slide":2,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":12}
+{"kind":"textbox","id":"sh/lorqhcjy","slide":2,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/yl076hkn","slide":2,"text":"A funcionalidade reduz a distância entre interesse e uso","textPreview":"A funcionalidade reduz a distância entre interesse e uso","textChars":56,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/zm98fm18","slide":2,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/czyp472h","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/d0rqdcj2","slide":2,"text":"OBJETIVO","textPreview":"OBJETIVO","textChars":8,"textLines":1,"bbox":[42,186,150,26]}
+{"kind":"textbox","id":"sh/qxg72xkb","slide":2,"text":"Comunicar valor executivo e levar o visitante diretamente à experiência real do ProjectFlow.","textPreview":"Comunicar valor executivo e levar o visitante diretamente à experiência real do ProjectFlow.","textChars":92,"textLines":1,"bbox":[42,220,690,80]}
+{"kind":"textbox","id":"sh/byp8b21w","slide":2,"text":"PÚBLICO","textPreview":"PÚBLICO","textChars":7,"textLines":1,"bbox":[42,338,150,26]}
+{"kind":"textbox","id":"sh/wv29gril","slide":2,"text":"Diretores, gestores de projetos e responsáveis por portfólio que precisam acompanhar risco, prazo e alocação.","textPreview":"Diretores, gestores de projetos e responsáveis por portfólio que precisam acompanhar risco, prazo e alocação.","textChars":109,"textLines":1,"bbox":[42,372,690,96]}
+{"kind":"shape","id":"sh/hgbqpwj6","slide":2,"bbox":[810,185,386,365]}
+{"kind":"textbox","id":"sh/h8vihsn2","slide":2,"text":"Conversão desta versão","textPreview":"Conversão desta versão","textChars":22,"textLines":1,"bbox":[846,220,310,36]}
+{"kind":"textbox","id":"sh/w7m18nmh","slide":2,"text":"/dashboard","textPreview":"/dashboard","textChars":10,"textLines":1,"bbox":[846,286,310,80]}
+{"kind":"textbox","id":"sh/v6d0fi5w","slide":2,"text":"Sem cobrança\nSem formulário\nSem cadastro obrigatório","textPreview":"Sem cobrança | Sem formulário | Sem cadastro obrigatório","textChars":52,"textLines":3,"bbox":[846,392,310,112]}
+{"kind":"textbox","id":"sh/u54j6d4b","slide":2,"text":"Decisão de produto","textPreview":"Decisão de produto","textChars":18,"textLines":1,"bbox":[42,548,230,30]}
+{"kind":"textbox","id":"sh/94bid8nq","slide":2,"text":"Demonstrar antes de vender.","textPreview":"Demonstrar antes de vender.","textChars":27,"textLines":1,"bbox":[270,542,600,42]}
+{"kind":"notes","id":"nt/16vycl","slide":2,"text":"[Sources]\n- docs/superpowers/specs/2026-08-06-landing-experimentacao-design.md\n[/Sources]"}
+{"kind":"slide","id":"sl/rmx0ck","slide":3,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":22}
+{"kind":"textbox","id":"sh/rq5gzul8","slide":3,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/sreh8zmd","slide":3,"text":"O redesenho removeu barreiras e alegações sem evidência","textPreview":"O redesenho removeu barreiras e alegações sem evidência","textChars":55,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/tsny143y","slide":3,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/etwza9kj","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/fe5g3el4","slide":3,"text":"EXPERIÊNCIA ANTERIOR","textPreview":"EXPERIÊNCIA ANTERIOR","textChars":20,"textLines":1,"bbox":[42,178,490,28]}
+{"kind":"textbox","id":"sh/gfehcz2p","slide":3,"text":"NOVA EXPERIÊNCIA","textPreview":"NOVA EXPERIÊNCIA","textChars":16,"textLines":1,"bbox":[690,178,490,28]}
+{"kind":"textbox","id":"sh/1g7y543a","slide":3,"text":"Preço e checkout","textPreview":"Preço e checkout","textChars":16,"textLines":1,"bbox":[58,226,480,34]}
+{"kind":"textbox","id":"sh/2hgze9kv","slide":3,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[620,226,40,34]}
+{"kind":"textbox","id":"sh/3ipg7el0","slide":3,"text":"Experimentação direta","textPreview":"Experimentação direta","textChars":21,"textLines":1,"bbox":[706,226,470,34]}
+{"kind":"shape","id":"sh/rmlkret4","slide":3,"bbox":[42,270,1154,0]}
+{"kind":"textbox","id":"sh/q1cji9sj","slide":3,"text":"Urgência promocional","textPreview":"Urgência promocional","textChars":20,"textLines":1,"bbox":[58,298,480,34]}
+{"kind":"textbox","id":"sh/do32tobu","slide":3,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[620,298,40,34]}
+{"kind":"textbox","id":"sh/cnu1kjap","slide":3,"text":"Proposta de valor","textPreview":"Proposta de valor","textChars":17,"textLines":1,"bbox":[706,298,470,34]}
+{"kind":"shape","id":"sh/3y1knets","slide":3,"bbox":[42,342,1154,0]}
+{"kind":"textbox","id":"sh/2xsje9s7","slide":3,"text":"Popup obrigatório","textPreview":"Popup obrigatório","textChars":17,"textLines":1,"bbox":[58,370,480,34]}
+{"kind":"textbox","id":"sh/p0j2p4by","slide":3,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[620,370,40,34]}
+{"kind":"textbox","id":"sh/4za1gzad","slide":3,"text":"Acesso sem cadastro","textPreview":"Acesso sem cadastro","textChars":19,"textLines":1,"bbox":[706,370,470,34]}
+{"kind":"shape","id":"sh/nu5kzytc","slide":3,"bbox":[42,414,1154,0]}
+{"kind":"textbox","id":"sh/mtwjqtsr","slide":3,"text":"Promessas genéricas","textPreview":"Promessas genéricas","textChars":19,"textLines":1,"bbox":[58,442,480,34]}
+{"kind":"textbox","id":"sh/ipgnixcz","slide":3,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[620,442,40,34]}
+{"kind":"textbox","id":"sh/jqp4r2dk","slide":3,"text":"Benefícios observáveis","textPreview":"Benefícios observáveis","textChars":22,"textLines":1,"bbox":[706,442,470,34]}
+{"kind":"shape","id":"sh/kry5k7up","slide":3,"bbox":[42,486,1154,0]}
+{"kind":"textbox","id":"sh/5crmtcva","slide":3,"text":"“Project Flow”","textPreview":"“Project Flow”","textChars":14,"textLines":1,"bbox":[58,514,480,34]}
+{"kind":"textbox","id":"sh/6d0nmhcv","slide":3,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[620,514,40,34]}
+{"kind":"textbox","id":"sh/7e94vmtg","slide":3,"text":"Marca padronizada: ProjectFlow","textPreview":"Marca padronizada: ProjectFlow","textChars":30,"textLines":1,"bbox":[706,514,470,34]}
+{"kind":"shape","id":"sh/sfi5o7u1","slide":3,"bbox":[42,558,1154,0]}
+{"kind":"textbox","id":"sh/tgrmxcbm","slide":3,"text":"Resultado","textPreview":"Resultado","textChars":9,"textLines":1,"bbox":[42,604,150,28]}
+{"kind":"textbox","id":"sh/mhw3adcr","slide":3,"text":"Menos fricção, mais coerência com o estágio atual do produto.","textPreview":"Menos fricção, mais coerência com o estágio atual do produto.","textChars":61,"textLines":1,"bbox":[190,598,980,40]}
+{"kind":"notes","id":"nt/rmx0ck","slide":3,"text":"[Sources]\n- src/pages/Landing.tsx\n- docs/superpowers/specs/2026-08-06-landing-experimentacao-design.md\n[/Sources]"}
+{"kind":"slide","id":"sl/c4se3r","slide":4,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":18}
+{"kind":"textbox","id":"sh/ovmxg369","slide":4,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/nudg7ypo","slide":4,"text":"A mensagem conecta dados do projeto a decisões executivas","textPreview":"A mensagem conecta dados do projeto a decisões executivas","textChars":57,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/294feto3","slide":4,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/x0fyd87q","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/czmxk365","slide":4,"text":"“Transforme projetos em decisões previsíveis”","textPreview":"“Transforme projetos em decisões previsíveis”","textChars":45,"textLines":1,"bbox":[42,180,900,58]}
+{"kind":"textbox","id":"sh/bydgbip0","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,286,48,28]}
+{"kind":"textbox","id":"sh/ax4fidof","slide":4,"text":"Prazos","textPreview":"Prazos","textChars":6,"textLines":1,"bbox":[42,324,260,38]}
+{"kind":"textbox","id":"sh/l4fyhs72","slide":4,"text":"Quando esperamos entregar?","textPreview":"Quando esperamos entregar?","textChars":26,"textLines":1,"bbox":[42,380,250,76]}
+{"kind":"textbox","id":"sh/k36hon6h","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[342,286,48,28]}
+{"kind":"textbox","id":"sh/uxsn2h4j","slide":4,"text":"Riscos","textPreview":"Riscos","textChars":6,"textLines":1,"bbox":[342,324,260,38]}
+{"kind":"textbox","id":"sh/vil4bml4","slide":4,"text":"O que pode desviar o plano?","textPreview":"O que pode desviar o plano?","textChars":27,"textLines":1,"bbox":[342,380,250,76]}
+{"kind":"textbox","id":"sh/wju547mp","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[642,286,48,28]}
+{"kind":"textbox","id":"sh/hk3mdc3a","slide":4,"text":"Progresso","textPreview":"Progresso","textChars":9,"textLines":1,"bbox":[642,324,260,38]}
+{"kind":"textbox","id":"sh/ilcn6h4f","slide":4,"text":"Quanto já foi realizado?","textPreview":"Quanto já foi realizado?","textChars":24,"textLines":1,"bbox":[642,380,250,76]}
+{"kind":"textbox","id":"sh/jml4fml0","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[942,286,48,28]}
+{"kind":"textbox","id":"sh/4nu58rml","slide":4,"text":"Alocação","textPreview":"Alocação","textChars":8,"textLines":1,"bbox":[942,324,260,38]}
+{"kind":"textbox","id":"sh/5o36hw36","slide":4,"text":"Quem está atuando em quê?","textPreview":"Quem está atuando em quê?","textChars":25,"textLines":1,"bbox":[942,380,250,76]}
+{"kind":"shape","id":"sh/yp83ux4b","slide":4,"bbox":[42,474,1158,0]}
+{"kind":"textbox","id":"sh/zqh432lw","slide":4,"text":"Leitura resultante","textPreview":"Leitura resultante","textChars":18,"textLines":1,"bbox":[42,512,240,28]}
+{"kind":"textbox","id":"sh/3uxkvy1o","slide":4,"text":"Onde agir agora — e o que esperar das próximas entregas.","textPreview":"Onde agir agora — e o que esperar das próximas entregas.","textChars":56,"textLines":1,"bbox":[280,502,880,50]}
+{"kind":"notes","id":"nt/c4se3r","slide":4,"text":"[Sources]\n- src/pages/Landing.tsx\n[/Sources]"}
+{"kind":"slide","id":"sl/etnkk7","slide":5,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":23}
+{"kind":"textbox","id":"sh/etsvmxg3","slide":5,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/1w3uxcze","slide":5,"text":"Cinco blocos conduzem a narrativa sem dispersar a atenção","textPreview":"Cinco blocos conduzem a narrativa sem dispersar a atenção","textChars":57,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/gvado7yt","slide":5,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/rq1crihc","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"shape","id":"sh/6psbidgr","slide":5,"bbox":[42,180,78,58]}
+{"kind":"textbox","id":"sh/tsjutszi","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[42,190,78,30]}
+{"kind":"textbox","id":"sh/sradknyx","slide":5,"text":"Cabeçalho","textPreview":"Cabeçalho","textChars":9,"textLines":1,"bbox":[158,184,250,36]}
+{"kind":"textbox","id":"sh/bmlc3mhg","slide":5,"text":"Marca, âncoras, Entrar e CTA","textPreview":"Marca, âncoras, Entrar e CTA","textChars":28,"textLines":1,"bbox":[430,185,660,34]}
+{"kind":"textbox","id":"sh/qlcvuhgv","slide":5,"text":"continua","textPreview":"continua","textChars":8,"textLines":1,"bbox":[1090,186,108,28]}
+{"kind":"shape","id":"sh/orq9s7ex","slide":5,"bbox":[158,243,1040,0]}
+{"kind":"shape","id":"sh/pszalcvi","slide":5,"bbox":[42,266,78,58]}
+{"kind":"textbox","id":"sh/2porqxwr","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[42,276,78,30]}
+{"kind":"textbox","id":"sh/3qhsj2dc","slide":5,"text":"Hero","textPreview":"Hero","textChars":4,"textLines":1,"bbox":[158,270,250,36]}
+{"kind":"textbox","id":"sh/gn69one1","slide":5,"text":"Promessa, contexto, CTA e prévia","textPreview":"Promessa, contexto, CTA e prévia","textChars":32,"textLines":1,"bbox":[430,271,660,34]}
+{"kind":"textbox","id":"sh/1ofqhsvm","slide":5,"text":"continua","textPreview":"continua","textChars":8,"textLines":1,"bbox":[1090,272,108,28]}
+{"kind":"shape","id":"sh/elormxwv","slide":5,"bbox":[158,329,1040,0]}
+{"kind":"shape","id":"sh/fmx8f2dg","slide":5,"bbox":[42,352,78,58]}
+{"kind":"textbox","id":"sh/sj69knep","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[42,362,78,30]}
+{"kind":"textbox","id":"sh/tkfqdsfa","slide":5,"text":"Benefícios","textPreview":"Benefícios","textChars":10,"textLines":1,"bbox":[158,356,250,36]}
+{"kind":"textbox","id":"sh/94ny1k32","slide":5,"text":"Quatro resultados de negócio","textPreview":"Quatro resultados de negócio","textChars":28,"textLines":1,"bbox":[430,357,660,34]}
+{"kind":"textbox","id":"sh/83exsf2h","slide":5,"text":"continua","textPreview":"continua","textChars":8,"textLines":1,"bbox":[1090,358,108,28]}
+{"kind":"shape","id":"sh/n25gzalw","slide":5,"bbox":[158,415,1040,0]}
+{"kind":"shape","id":"sh/m1cfq5kb","slide":5,"bbox":[42,438,78,58]}
+{"kind":"textbox","id":"sh/l03yx03q","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[42,448,78,30]}
+{"kind":"textbox","id":"sh/0zuxof25","slide":5,"text":"Como funciona","textPreview":"Como funciona","textChars":13,"textLines":1,"bbox":[158,442,250,36]}
+{"kind":"textbox","id":"sh/zelgvalk","slide":5,"text":"Planeje, acompanhe e decida","textPreview":"Planeje, acompanhe e decida","textChars":27,"textLines":1,"bbox":[430,443,660,34]}
+{"kind":"textbox","id":"sh/ydcfm5kf","slide":5,"text":"continua","textPreview":"continua","textChars":8,"textLines":1,"bbox":[1090,444,108,28]}
+{"kind":"shape","id":"sh/5w7y943a","slide":5,"bbox":[158,501,1040,0]}
+{"kind":"shape","id":"sh/4vyh0z2p","slide":5,"bbox":[42,524,78,58]}
+{"kind":"textbox","id":"sh/2h8vu107","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[42,534,78,30]}
+{"kind":"textbox","id":"sh/3i1cn61c","slide":5,"text":"Fechamento","textPreview":"Fechamento","textChars":10,"textLines":1,"bbox":[158,528,250,36]}
+{"kind":"textbox","id":"sh/ojadwbix","slide":5,"text":"Reforço de valor e CTA final","textPreview":"Reforço de valor e CTA final","textChars":28,"textLines":1,"bbox":[430,529,660,34]}
+{"kind":"textbox","id":"sh/pkjepgji","slide":5,"text":"converte","textPreview":"converte","textChars":8,"textLines":1,"bbox":[1090,530,108,28]}
+{"kind":"notes","id":"nt/etnkk7","slide":5,"text":"[Sources]\n- src/pages/Landing.tsx\n[/Sources]"}
+{"kind":"slide","id":"sl/j4stsy","slide":6,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":14}
+{"kind":"textbox","id":"sh/943ytor6","slide":6,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/m1cfy9sf","slide":6,"text":"Cabeçalho e hero resolvem orientação, mensagem e ação","textPreview":"Cabeçalho e hero resolvem orientação, mensagem e ação","textChars":53,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/n2lgre90","slide":6,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/wrex4jax","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/xsnyxor2","slide":6,"text":"CABEÇALHO","textPreview":"CABEÇALHO","textChars":9,"textLines":1,"bbox":[42,180,150,26]}
+{"kind":"shape","id":"sh/apcf29sr","slide":6,"bbox":[42,230,10,10]}
+{"kind":"textbox","id":"sh/vq5gve9c","slide":6,"text":"Marca “ProjectFlow” volta ao início.","textPreview":"Marca “ProjectFlow” volta ao início.","textChars":36,"textLines":1,"bbox":[70,222,522,48]}
+{"kind":"shape","id":"sh/kvex83at","slide":6,"bbox":[42,296,10,10]}
+{"kind":"textbox","id":"sh/5wny18re","slide":6,"text":"Âncoras levam a Benefícios e Como funciona.","textPreview":"Âncoras levam a Benefícios e Como funciona.","textChars":43,"textLines":1,"bbox":[70,288,522,48]}
+{"kind":"shape","id":"sh/1sbq103m","slide":6,"bbox":[42,362,10,10]}
+{"kind":"textbox","id":"sh/0r298vmh","slide":6,"text":"Entrar e Experimentar grátis abrem /dashboard.","textPreview":"Entrar e Experimentar grátis abrem /dashboard.","textChars":46,"textLines":1,"bbox":[70,354,522,48]}
+{"kind":"textbox","id":"sh/fqt8zqlw","slide":6,"text":"HERO","textPreview":"HERO","textChars":4,"textLines":1,"bbox":[660,180,150,26]}
+{"kind":"shape","id":"sh/e5kr6l4b","slide":6,"bbox":[660,230,10,10]}
+{"kind":"textbox","id":"sh/pwvq503y","slide":6,"text":"Identifica gestão orientada por dados.","textPreview":"Identifica gestão orientada por dados.","textChars":38,"textLines":1,"bbox":[688,222,512,48]}
+{"kind":"shape","id":"sh/ovm9cvmd","slide":6,"bbox":[660,296,10,10]}
+{"kind":"textbox","id":"sh/nud83qls","slide":6,"text":"Apresenta a promessa de previsibilidade.","textPreview":"Apresenta a promessa de previsibilidade.","textChars":40,"textLines":1,"bbox":[688,288,512,48]}
+{"kind":"shape","id":"sh/2t4ral47","slide":6,"bbox":[660,362,10,10]}
+{"kind":"textbox","id":"sh/50rqtg3e","slide":6,"text":"Explica prazo, risco, progresso e alocação.","textPreview":"Explica prazo, risco, progresso e alocação.","textChars":43,"textLines":1,"bbox":[688,354,512,48]}
+{"kind":"shape","id":"sh/4zip0bm9","slide":6,"bbox":[660,428,10,10]}
+{"kind":"textbox","id":"sh/wjm9gbu5","slide":6,"text":"Exibe CTA principal e “sem cadastro”.","textPreview":"Exibe CTA principal e “sem cadastro”.","textChars":37,"textLines":1,"bbox":[688,420,512,48]}
+{"kind":"shape","id":"sh/hkvq9gba","slide":6,"bbox":[42,520,1156,80]}
+{"kind":"textbox","id":"sh/uh4re1cz","slide":6,"text":"Regra de decisão","textPreview":"Regra de decisão","textChars":16,"textLines":1,"bbox":[66,538,220,30]}
+{"kind":"textbox","id":"sh/vid876tk","slide":6,"text":"Uma única ação de produto: experimentar o dashboard.","textPreview":"Uma única ação de produto: experimentar o dashboard.","textChars":52,"textLines":1,"bbox":[300,530,850,45]}
+{"kind":"notes","id":"nt/j4stsy","slide":6,"text":"[Sources]\n- src/pages/Landing.tsx\n[/Sources]"}
+{"kind":"slide","id":"sl/mzeigb","slide":7,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":17}
+{"kind":"textbox","id":"sh/2dsvulgv","slide":7,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/pgjup0zm","slide":7,"text":"A prévia demonstra o tipo de leitura entregue pelo produto","textPreview":"A prévia demonstra o tipo de leitura entregue pelo produto","textChars":58,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/ofadwvy1","slide":7,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/fahcj6h4","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/e98vqlgz","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[42,190,160,64]}
+{"kind":"textbox","id":"sh/1cjulgza","slide":7,"text":"Projetos ativos","textPreview":"Projetos ativos","textChars":15,"textLines":1,"bbox":[210,198,390,36]}
+{"kind":"textbox","id":"sh/gbadsbyp","slide":7,"text":"Dimensão do portfólio em acompanhamento","textPreview":"Dimensão do portfólio em acompanhamento","textChars":39,"textLines":1,"bbox":[210,246,390,58]}
+{"kind":"shape","id":"sh/rmhcf6h8","slide":7,"bbox":[42,324,540,0]}
+{"kind":"textbox","id":"sh/6l8bm1gn","slide":7,"text":"68%","textPreview":"68%","textChars":3,"textLines":1,"bbox":[632,190,160,64]}
+{"kind":"textbox","id":"sh/s7edczi9","slide":7,"text":"Progresso médio","textPreview":"Progresso médio","textChars":15,"textLines":1,"bbox":[800,198,390,36]}
+{"kind":"textbox","id":"sh/t87e54zu","slide":7,"text":"Visão consolidada da execução","textPreview":"Visão consolidada da execução","textChars":29,"textLines":1,"bbox":[800,246,390,58]}
+{"kind":"shape","id":"sh/65wva903","slide":7,"bbox":[632,324,540,0]}
+{"kind":"textbox","id":"sh/765w3uho","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[42,386,160,64]}
+{"kind":"textbox","id":"sh/kjed8zix","slide":7,"text":"Riscos críticos","textPreview":"Riscos críticos","textChars":15,"textLines":1,"bbox":[210,394,390,36]}
+{"kind":"textbox","id":"sh/5kne14zi","slide":7,"text":"Pontos que exigem atenção","textPreview":"Pontos que exigem atenção","textChars":25,"textLines":1,"bbox":[210,442,390,58]}
+{"kind":"shape","id":"sh/ihwv6p0r","slide":7,"bbox":[42,520,540,0]}
+{"kind":"textbox","id":"sh/ji5wzuhc","slide":7,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[632,386,160,64]}
+{"kind":"textbox","id":"sh/4fixkjih","slide":7,"text":"Profissionais","textPreview":"Profissionais","textChars":13,"textLines":1,"bbox":[800,394,390,36]}
+{"kind":"textbox","id":"sh/pgredozm","slide":7,"text":"Capacidade alocada nos projetos","textPreview":"Capacidade alocada nos projetos","textChars":31,"textLines":1,"bbox":[800,442,390,58]}
+{"kind":"shape","id":"sh/dwnexor6","slide":7,"bbox":[632,520,540,0]}
+{"kind":"textbox","id":"sh/cved4jal","slide":7,"text":"Importante","textPreview":"Importante","textChars":10,"textLines":1,"bbox":[42,594,140,26]}
+{"kind":"textbox","id":"sh/bu5wve90","slide":7,"text":"A composição é ilustrativa e não simula controles interativos.","textPreview":"A composição é ilustrativa e não simula controles interativos.","textChars":62,"textLines":1,"bbox":[180,588,920,38]}
+{"kind":"notes","id":"nt/mzeigb","slide":7,"text":"[Sources]\n- src/pages/Landing.tsx\n[/Sources]"}
+{"kind":"slide","id":"sl/jxi7fk","slide":8,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":18}
+{"kind":"textbox","id":"sh/pg7i54r2","slide":8,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/2dwzu98b","slide":8,"text":"Cada benefício responde a uma pergunta de gestão","textPreview":"Cada benefício responde a uma pergunta de gestão","textChars":48,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/3ep03e9w","slide":8,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/cjyh0jqd","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/d47i9ory","slide":8,"text":"BENEFÍCIO","textPreview":"BENEFÍCIO","textChars":9,"textLines":1,"bbox":[42,178,320,28]}
+{"kind":"textbox","id":"sh/qhgzy987","slide":8,"text":"PERGUNTA RESPONDIDA","textPreview":"PERGUNTA RESPONDIDA","textChars":19,"textLines":1,"bbox":[405,178,340,28]}
+{"kind":"textbox","id":"sh/bip07e9s","slide":8,"text":"DECISÃO APOIADA","textPreview":"DECISÃO APOIADA","textChars":15,"textLines":1,"bbox":[780,178,410,28]}
+{"kind":"textbox","id":"sh/07i14jqp","slide":8,"text":"Previsibilidade","textPreview":"Previsibilidade","textChars":15,"textLines":1,"bbox":[42,226,320,58]}
+{"kind":"textbox","id":"sh/l8ridoru","slide":8,"text":"Quando entregaremos?","textPreview":"Quando entregaremos?","textChars":20,"textLines":1,"bbox":[405,226,330,58]}
+{"kind":"textbox","id":"sh/98zyhkra","slide":8,"text":"Repriorizar prazo ou escopo","textPreview":"Repriorizar prazo ou escopo","textChars":27,"textLines":1,"bbox":[780,226,410,58]}
+{"kind":"shape","id":"sh/o7qxofa5","slide":8,"bbox":[42,292,1156,0]}
+{"kind":"textbox","id":"sh/n6hgfa9k","slide":8,"text":"Riscos antecipados","textPreview":"Riscos antecipados","textChars":18,"textLines":1,"bbox":[42,320,320,58]}
+{"kind":"textbox","id":"sh/m58fm5sz","slide":8,"text":"O que ameaça a entrega?","textPreview":"O que ameaça a entrega?","textChars":23,"textLines":1,"bbox":[405,320,330,58]}
+{"kind":"textbox","id":"sh/xcjylkrm","slide":8,"text":"Tratar impedimentos primeiro","textPreview":"Tratar impedimentos primeiro","textChars":28,"textLines":1,"bbox":[780,320,410,58]}
+{"kind":"shape","id":"sh/wbahsfa1","slide":8,"bbox":[42,386,1156,0]}
+{"kind":"textbox","id":"sh/ba1gju9g","slide":8,"text":"Alocação transparente","textPreview":"Alocação transparente","textChars":21,"textLines":1,"bbox":[42,414,320,58]}
+{"kind":"textbox","id":"sh/a98zqpsv","slide":8,"text":"Quem está em cada frente?","textPreview":"Quem está em cada frente?","textChars":25,"textLines":1,"bbox":[405,414,330,58]}
+{"kind":"textbox","id":"sh/dgfy90bi","slide":8,"text":"Realocar atenção e responsabilidade","textPreview":"Realocar atenção e responsabilidade","textChars":35,"textLines":1,"bbox":[780,414,410,58]}
+{"kind":"shape","id":"sh/cf6xgvax","slide":8,"bbox":[42,480,1156,0]}
+{"kind":"textbox","id":"sh/4vupczmp","slide":8,"text":"Decisões data-driven","textPreview":"Decisões data-driven","textChars":20,"textLines":1,"bbox":[42,508,320,58]}
+{"kind":"textbox","id":"sh/pw3ql4na","slide":8,"text":"Onde agir agora?","textPreview":"Onde agir agora?","textChars":16,"textLines":1,"bbox":[405,508,330,58]}
+{"kind":"textbox","id":"sh/2ts7ap4z","slide":8,"text":"Priorizar com evidência consolidada","textPreview":"Priorizar com evidência consolidada","textChars":35,"textLines":1,"bbox":[780,508,410,58]}
+{"kind":"shape","id":"sh/3uloju54","slide":8,"bbox":[42,574,1156,0]}
+{"kind":"notes","id":"nt/jxi7fk","slide":8,"text":"[Sources]\n- docs/superpowers/specs/2026-08-06-landing-experimentacao-design.md\n[/Sources]"}
+{"kind":"slide","id":"sl/rpr54i","slide":9,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":17}
+{"kind":"textbox","id":"sh/q5o72t0b","slide":9,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/d8z6x8zm","slide":9,"text":"A navegação preserva contexto e evita becos sem saída","textPreview":"A navegação preserva contexto e evita becos sem saída","textChars":53,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/c76p43i1","slide":9,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/zahozyhs","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"shape","id":"sh/e9876tg7","slide":9,"bbox":[105,320,1040,0]}
+{"kind":"shape","id":"sh/1wz618zy","slide":9,"bbox":[90,306,28,28]}
+{"kind":"textbox","id":"sh/0vqp83yd","slide":9,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[90,246,60,30]}
+{"kind":"textbox","id":"sh/nyho3iho","slide":9,"text":"Chegada","textPreview":"Chegada","textChars":7,"textLines":1,"bbox":[90,370,260,36]}
+{"kind":"textbox","id":"sh/mx87adg3","slide":9,"text":"/","textPreview":"/","textChars":1,"textLines":1,"bbox":[90,416,260,34]}
+{"kind":"shape","id":"sh/gv2ponmt","slide":9,"bbox":[430,306,28,28]}
+{"kind":"textbox","id":"sh/hwbqxsne","slide":9,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[430,246,60,30]}
+{"kind":"textbox","id":"sh/utk7md4n","slide":9,"text":"Exploração","textPreview":"Exploração","textChars":10,"textLines":1,"bbox":[430,370,260,36]}
+{"kind":"textbox","id":"sh/vut8vi58","slide":9,"text":"#beneficios","textPreview":"#beneficios","textChars":11,"textLines":1,"bbox":[430,416,260,34]}
+{"kind":"shape","id":"sh/4zmps7m5","slide":9,"bbox":[770,306,28,28]}
+{"kind":"textbox","id":"sh/5kvq1cna","slide":9,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[770,246,60,30]}
+{"kind":"textbox","id":"sh/ixk7qx4z","slide":9,"text":"Entendimento","textPreview":"Entendimento","textChars":12,"textLines":1,"bbox":[770,370,260,36]}
+{"kind":"textbox","id":"sh/3yd8z25k","slide":9,"text":"#como-funciona","textPreview":"#como-funciona","textChars":14,"textLines":1,"bbox":[770,416,260,34]}
+{"kind":"shape","id":"sh/snm9w7m1","slide":9,"bbox":[1110,306,28,28]}
+{"kind":"textbox","id":"sh/dovq5c3m","slide":9,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1080,246,60,30]}
+{"kind":"textbox","id":"sh/18ryt8re","slide":9,"text":"Ação","textPreview":"Ação","textChars":4,"textLines":1,"bbox":[980,370,160,36]}
+{"kind":"textbox","id":"sh/07ih03at","slide":9,"text":"/dashboard","textPreview":"/dashboard","textChars":10,"textLines":1,"bbox":[980,416,160,34]}
+{"kind":"textbox","id":"sh/f6pgri98","slide":9,"text":"Comportamento comum","textPreview":"Comportamento comum","textChars":19,"textLines":1,"bbox":[42,542,260,28]}
+{"kind":"textbox","id":"sh/e5gzyds3","slide":9,"text":"Todos os CTAs navegam na mesma aba; não há popup, checkout ou redirecionamento externo.","textPreview":"Todos os CTAs navegam na mesma aba; não há popup, checkout ou redirecionamento externo.","textChars":87,"textLines":1,"bbox":[300,532,870,64]}
+{"kind":"notes","id":"nt/rpr54i","slide":9,"text":"[Sources]\n- src/pages/Landing.tsx\n- src/App.tsx\n[/Sources]"}
+{"kind":"slide","id":"sl/66qx14","slide":10,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":28}
+{"kind":"textbox","id":"sh/ilwrip0v","slide":10,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/58nqd4zm","slide":10,"text":"O contrato de navegação é explícito e testável","textPreview":"O contrato de navegação é explícito e testável","textChars":46,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/47e9kzi1","slide":10,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/ra5sfehs","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/q9wrm9g7","slide":10,"text":"ELEMENTO","textPreview":"ELEMENTO","textChars":8,"textLines":1,"bbox":[42,178,260,26]}
+{"kind":"textbox","id":"sh/dc7ah4zi","slide":10,"text":"DESTINO","textPreview":"DESTINO","textChars":7,"textLines":1,"bbox":[360,178,260,26]}
+{"kind":"textbox","id":"sh/sby9ojyd","slide":10,"text":"TIPO","textPreview":"TIPO","textChars":4,"textLines":1,"bbox":[650,178,260,26]}
+{"kind":"textbox","id":"sh/fepsjeho","slide":10,"text":"RESULTADO","textPreview":"RESULTADO","textChars":9,"textLines":1,"bbox":[950,178,250,26]}
+{"kind":"textbox","id":"sh/edgrq9g3","slide":10,"text":"Marca","textPreview":"Marca","textChars":5,"textLines":1,"bbox":[42,224,260,42]}
+{"kind":"textbox","id":"sh/4zytkvil","slide":10,"text":"#inicio","textPreview":"#inicio","textChars":7,"textLines":1,"bbox":[360,224,260,42]}
+{"kind":"textbox","id":"sh/p07ut0j6","slide":10,"text":"Âncora","textPreview":"Âncora","textChars":6,"textLines":1,"bbox":[650,224,260,42]}
+{"kind":"textbox","id":"sh/2xgbil0f","slide":10,"text":"Volta ao hero","textPreview":"Volta ao hero","textChars":13,"textLines":1,"bbox":[950,224,250,42]}
+{"kind":"shape","id":"sh/3ypcrq10","slide":10,"bbox":[42,272,1156,0]}
+{"kind":"textbox","id":"sh/cnitovih","slide":10,"text":"Benefícios","textPreview":"Benefícios","textChars":10,"textLines":1,"bbox":[42,296,260,42]}
+{"kind":"textbox","id":"sh/dorux0j2","slide":10,"text":"#beneficios","textPreview":"#beneficios","textChars":11,"textLines":1,"bbox":[360,296,260,42]}
+{"kind":"textbox","id":"sh/ql0bml0b","slide":10,"text":"Âncora","textPreview":"Âncora","textChars":6,"textLines":1,"bbox":[650,296,260,42]}
+{"kind":"textbox","id":"sh/rm9cvq1w","slide":10,"text":"Exibe resultados","textPreview":"Exibe resultados","textChars":16,"textLines":1,"bbox":[950,296,250,42]}
+{"kind":"shape","id":"sh/0ridsfit","slide":10,"bbox":[42,344,1156,0]}
+{"kind":"textbox","id":"sh/1sbu1kjy","slide":10,"text":"Como funciona","textPreview":"Como funciona","textChars":13,"textLines":1,"bbox":[42,368,260,42]}
+{"kind":"textbox","id":"sh/987ul0bi","slide":10,"text":"#como-funciona","textPreview":"#como-funciona","textChars":14,"textLines":1,"bbox":[360,368,260,42]}
+{"kind":"textbox","id":"sh/87ytcvax","slide":10,"text":"Âncora","textPreview":"Âncora","textChars":6,"textLines":1,"bbox":[650,368,260,42]}
+{"kind":"textbox","id":"sh/n65cjatc","slide":10,"text":"Exibe fluxo","textPreview":"Exibe fluxo","textChars":11,"textLines":1,"bbox":[950,368,250,42]}
+{"kind":"shape","id":"sh/mlwba5sr","slide":10,"bbox":[42,416,1156,0]}
+{"kind":"textbox","id":"sh/hc7upkbe","slide":10,"text":"Entrar","textPreview":"Entrar","textChars":6,"textLines":1,"bbox":[42,440,260,42]}
+{"kind":"textbox","id":"sh/wbytgfat","slide":10,"text":"/dashboard","textPreview":"/dashboard","textChars":10,"textLines":1,"bbox":[360,440,260,42]}
+{"kind":"textbox","id":"sh/vapcnat8","slide":10,"text":"Rota interna","textPreview":"Rota interna","textChars":12,"textLines":1,"bbox":[650,440,260,42]}
+{"kind":"textbox","id":"sh/a9gbe5sn","slide":10,"text":"Abre produto","textPreview":"Abre produto","textChars":12,"textLines":1,"bbox":[950,440,250,42]}
+{"kind":"shape","id":"sh/dgnadgba","slide":10,"bbox":[42,488,1156,0]}
+{"kind":"textbox","id":"sh/cfut4bap","slide":10,"text":"Experimentar grátis","textPreview":"Experimentar grátis","textChars":19,"textLines":1,"bbox":[42,512,260,42]}
+{"kind":"textbox","id":"sh/2lsreh87","slide":10,"text":"/dashboard","textPreview":"/dashboard","textChars":10,"textLines":1,"bbox":[360,512,260,42]}
+{"kind":"textbox","id":"sh/3m18nm9s","slide":10,"text":"Rota interna","textPreview":"Rota interna","textChars":12,"textLines":1,"bbox":[650,512,260,42]}
+{"kind":"textbox","id":"sh/ona9grqd","slide":10,"text":"Abre produto","textPreview":"Abre produto","textChars":12,"textLines":1,"bbox":[950,512,250,42]}
+{"kind":"shape","id":"sh/po3qpwry","slide":10,"bbox":[42,560,1156,0]}
+{"kind":"textbox","id":"sh/qpcri18j","slide":10,"text":"Sem integração externa nesta versão.","textPreview":"Sem integração externa nesta versão.","textChars":36,"textLines":1,"bbox":[42,612,600,32]}
+{"kind":"notes","id":"nt/66qx14","slide":10,"text":"[Sources]\n- src/pages/Landing.tsx\n- src/pages/Landing.test.tsx\n[/Sources]"}
+{"kind":"slide","id":"sl/65acbj","slide":11,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":17}
+{"kind":"textbox","id":"sh/lg3mlg72","slide":11,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/yds3a18r","slide":11,"text":"Responsividade preserva a prioridade do conteúdo","textPreview":"Responsividade preserva a prioridade do conteúdo","textChars":48,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/ze14j6pc","slide":11,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/8ju5gbqt","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/9k3mpg7e","slide":11,"text":"Desktop","textPreview":"Desktop","textChars":7,"textLines":1,"bbox":[42,188,360,44]}
+{"kind":"shape","id":"sh/mhcnel8n","slide":11,"bbox":[42,246,355,0]}
+{"kind":"textbox","id":"sh/nil4n6p8","slide":11,"text":"Hero em duas colunas","textPreview":"Hero em duas colunas","textChars":20,"textLines":1,"bbox":[42,286,350,44]}
+{"kind":"textbox","id":"sh/w7e5kvqp","slide":11,"text":"Prévia ao lado da mensagem","textPreview":"Prévia ao lado da mensagem","textChars":26,"textLines":1,"bbox":[42,364,350,44]}
+{"kind":"textbox","id":"sh/x8nmt07a","slide":11,"text":"Navegação completa","textPreview":"Navegação completa","textChars":18,"textLines":1,"bbox":[42,442,350,44]}
+{"kind":"textbox","id":"sh/pkfu9wrq","slide":11,"text":"Tablet","textPreview":"Tablet","textChars":6,"textLines":1,"bbox":[453,188,360,44]}
+{"kind":"shape","id":"sh/oj6tgrq5","slide":11,"bbox":[453,246,355,0]}
+{"kind":"textbox","id":"sh/nixc769k","slide":11,"text":"Hero reorganizado","textPreview":"Hero reorganizado","textChars":17,"textLines":1,"bbox":[453,286,350,44]}
+{"kind":"textbox","id":"sh/2hobe18z","slide":11,"text":"Cards em duas colunas","textPreview":"Cards em duas colunas","textChars":21,"textLines":1,"bbox":[453,364,350,44]}
+{"kind":"textbox","id":"sh/xozudgrm","slide":11,"text":"Espaços preservados","textPreview":"Espaços preservados","textChars":19,"textLines":1,"bbox":[453,442,350,44]}
+{"kind":"textbox","id":"sh/cnqdkbqh","slide":11,"text":"Celular","textPreview":"Celular","textChars":7,"textLines":1,"bbox":[864,188,360,44]}
+{"kind":"shape","id":"sh/bmhcb69w","slide":11,"bbox":[864,246,355,0]}
+{"kind":"textbox","id":"sh/al8bi18b","slide":11,"text":"Fluxo em uma coluna","textPreview":"Fluxo em uma coluna","textChars":19,"textLines":1,"bbox":[864,286,350,44]}
+{"kind":"textbox","id":"sh/dsvu1cri","slide":11,"text":"Prévia abaixo do CTA","textPreview":"Prévia abaixo do CTA","textChars":20,"textLines":1,"bbox":[864,364,350,44]}
+{"kind":"textbox","id":"sh/srmt87qx","slide":11,"text":"Sem overflow horizontal","textPreview":"Sem overflow horizontal","textChars":23,"textLines":1,"bbox":[864,442,350,44]}
+{"kind":"shape","id":"sh/47alkb25","slide":11,"bbox":[42,544,1156,72]}
+{"kind":"textbox","id":"sh/58j2dg3q","slide":11,"text":"Critério de aceitação","textPreview":"Critério de aceitação","textChars":21,"textLines":1,"bbox":[66,562,250,26]}
+{"kind":"textbox","id":"sh/ils3i1kz","slide":11,"text":"A experiência permanece legível e acionável em qualquer largura.","textPreview":"A experiência permanece legível e acionável em qualquer largura.","textChars":64,"textLines":1,"bbox":[320,553,820,40]}
+{"kind":"notes","id":"nt/65acbj","slide":11,"text":"[Sources]\n- src/pages/Landing.tsx\n- src/pages/Landing.test.tsx\n[/Sources]"}
+{"kind":"slide","id":"sl/9nz8wu","slide":12,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":23}
+{"kind":"textbox","id":"sh/lwzihczu","slide":12,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/yt8z6hg3","slide":12,"text":"Acessibilidade foi tratada como requisito funcional","textPreview":"Acessibilidade foi tratada como requisito funcional","textChars":51,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/zuh0fmho","slide":12,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/crqh47yd","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/xszidczy","slide":12,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[42,188,42,42]}
+{"kind":"textbox","id":"sh/a5oz2xg7","slide":12,"text":"Estrutura semântica","textPreview":"Estrutura semântica","textChars":19,"textLines":1,"bbox":[94,188,520,34]}
+{"kind":"textbox","id":"sh/b6h0b2hs","slide":12,"text":"header, main, sections e footer","textPreview":"header, main, sections e footer","textChars":31,"textLines":1,"bbox":[94,236,520,48]}
+{"kind":"textbox","id":"sh/gna1gbyh","slide":12,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[650,188,42,42]}
+{"kind":"textbox","id":"sh/hojipwz2","slide":12,"text":"Nomes acessíveis","textPreview":"Nomes acessíveis","textChars":16,"textLines":1,"bbox":[702,188,520,34]}
+{"kind":"textbox","id":"sh/t0zet0je","slide":12,"text":"Links e ações comunicam sua finalidade","textPreview":"Links e ações comunicam sua finalidade","textChars":38,"textLines":1,"bbox":[702,236,520,48]}
+{"kind":"textbox","id":"sh/szqdkvit","slide":12,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[42,324,42,42]}
+{"kind":"textbox","id":"sh/7yhwrq1o","slide":12,"text":"Prévia não interativa","textPreview":"Prévia não interativa","textChars":21,"textLines":1,"bbox":[94,324,520,34]}
+{"kind":"textbox","id":"sh/6x8vil03","slide":12,"text":"role=\"img\" com descrição explícita","textPreview":"role=\"img\" com descrição explícita","textChars":34,"textLines":1,"bbox":[94,372,520,48]}
+{"kind":"textbox","id":"sh/lwfepgji","slide":12,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[650,324,42,42]}
+{"kind":"textbox","id":"sh/kv6dgbix","slide":12,"text":"Ícones decorativos","textPreview":"Ícones decorativos","textChars":18,"textLines":1,"bbox":[702,324,520,34]}
+{"kind":"textbox","id":"sh/juxwn61c","slide":12,"text":"aria-hidden evita leitura redundante","textPreview":"aria-hidden evita leitura redundante","textChars":36,"textLines":1,"bbox":[702,372,520,48]}
+{"kind":"textbox","id":"sh/y9ovel0r","slide":12,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[42,460,42,42]}
+{"kind":"textbox","id":"sh/psje1kjm","slide":12,"text":"Movimento reduzido","textPreview":"Movimento reduzido","textChars":18,"textLines":1,"bbox":[94,460,520,34]}
+{"kind":"textbox","id":"sh/4raxsfi1","slide":12,"text":"motion-reduce remove transformação","textPreview":"motion-reduce remove transformação","textChars":34,"textLines":1,"bbox":[94,508,520,48]}
+{"kind":"textbox","id":"sh/obih4jqd","slide":12,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[650,460,42,42]}
+{"kind":"textbox","id":"sh/pcryxory","slide":12,"text":"Foco por teclado","textPreview":"Foco por teclado","textChars":16,"textLines":1,"bbox":[702,460,520,34]}
+{"kind":"textbox","id":"sh/290z2987","slide":12,"text":"Componentes preservam foco visível","textPreview":"Componentes preservam foco visível","textChars":34,"textLines":1,"bbox":[702,508,520,48]}
+{"kind":"textbox","id":"sh/na9gve9s","slide":12,"text":"Validação automatizada","textPreview":"Validação automatizada","textChars":22,"textLines":1,"bbox":[42,604,230,26]}
+{"kind":"textbox","id":"sh/07yx0jqh","slide":12,"text":"Regiões estruturais e ilustração acessível fazem parte do contrato de teste.","textPreview":"Regiões estruturais e ilustração acessível fazem parte do contrato de teste.","textChars":76,"textLines":1,"bbox":[268,596,920,42]}
+{"kind":"notes","id":"nt/9nz8wu","slide":12,"text":"[Sources]\n- src/pages/Landing.tsx\n- src/pages/Landing.test.tsx\n[/Sources]"}
+{"kind":"slide","id":"sl/wdibrc","slide":13,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":15}
+{"kind":"textbox","id":"sh/n6lg7alw","slide":13,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/o7ux0fmh","slide":13,"text":"Arquitetura enxuta preserva o foco da funcionalidade","textPreview":"Arquitetura enxuta preserva o foco da funcionalidade","textChars":52,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/p83y9k3m","slide":13,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/ehsfu54z","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/filg3alk","slide":13,"text":"IMPLEMENTAÇÃO","textPreview":"IMPLEMENTAÇÃO","textChars":13,"textLines":1,"bbox":[42,180,150,26]}
+{"kind":"shape","id":"sh/0juxwfm5","slide":13,"bbox":[42,228,10,10]}
+{"kind":"textbox","id":"sh/1k3y503q","slide":13,"text":"Landing.tsx concentra conteúdo e composição.","textPreview":"Landing.tsx concentra conteúdo e composição.","textChars":44,"textLines":1,"bbox":[70,220,527,48]}
+{"kind":"shape","id":"sh/qdsfql43","slide":13,"bbox":[42,290,10,10]}
+{"kind":"textbox","id":"sh/re1gzqlo","slide":13,"text":"Arrays locais descrevem benefícios e passos.","textPreview":"Arrays locais descrevem benefícios e passos.","textChars":44,"textLines":1,"bbox":[70,282,527,48]}
+{"kind":"shape","id":"sh/vmt0nip8","slide":13,"bbox":[42,352,10,10]}
+{"kind":"textbox","id":"sh/ulkzed8n","slide":13,"text":"React Router conecta a página ao dashboard.","textPreview":"React Router conecta a página ao dashboard.","textChars":43,"textLines":1,"bbox":[70,344,527,48]}
+{"kind":"shape","id":"sh/hobips7e","slide":13,"bbox":[42,414,10,10]}
+{"kind":"textbox","id":"sh/wn2hgnqt","slide":13,"text":"Tailwind, Lucide e Button já existentes são reutilizados.","textPreview":"Tailwind, Lucide e Button já existentes são reutilizados.","textChars":57,"textLines":1,"bbox":[70,406,527,48]}
+{"kind":"textbox","id":"sh/3qt0rip4","slide":13,"text":"FORA DO ESCOPO","textPreview":"FORA DO ESCOPO","textChars":14,"textLines":1,"bbox":[670,180,180,26]}
+{"kind":"shape","id":"sh/ipkzid8j","slide":13,"bbox":[670,228,10,10]}
+{"kind":"textbox","id":"sh/5sbits7a","slide":13,"text":"Autenticação e criação de conta.","textPreview":"Autenticação e criação de conta.","textChars":32,"textLines":1,"bbox":[698,220,502,48]}
+{"kind":"shape","id":"sh/4r2hknqp","slide":13,"bbox":[670,290,10,10]}
+{"kind":"textbox","id":"sh/zu90fyp0","slide":13,"text":"Checkout, preço e planos comerciais.","textPreview":"Checkout, preço e planos comerciais.","textChars":36,"textLines":1,"bbox":[698,282,502,48]}
+{"kind":"shape","id":"sh/ytgz6t8f","slide":13,"bbox":[670,352,10,10]}
+{"kind":"textbox","id":"sh/29o3e1s3","slide":13,"text":"Persistência de estado ou formulários.","textPreview":"Persistência de estado ou formulários.","textChars":38,"textLines":1,"bbox":[698,344,502,48]}
+{"kind":"shape","id":"sh/naxkn69o","slide":13,"bbox":[670,414,10,10]}
+{"kind":"textbox","id":"sh/ob6lgba9","slide":13,"text":"Backend, analytics e dependências novas.","textPreview":"Backend, analytics e dependências novas.","textChars":40,"textLines":1,"bbox":[698,406,502,48]}
+{"kind":"shape","id":"sh/pcz2pwre","slide":13,"bbox":[42,538,1156,72]}
+{"kind":"textbox","id":"sh/elo3ahsr","slide":13,"text":"Impacto técnico","textPreview":"Impacto técnico","textChars":15,"textLines":1,"bbox":[66,556,190,26]}
+{"kind":"textbox","id":"sh/fmxkjm9c","slide":13,"text":"2 arquivos de produto/teste · 0 dependências · rota existente preservada","textPreview":"2 arquivos de produto/teste · 0 dependências · rota existente preservada","textChars":72,"textLines":1,"bbox":[260,548,900,40]}
+{"kind":"notes","id":"nt/wdibrc","slide":13,"text":"[Sources]\n- src/pages/Landing.tsx\n- src/App.tsx\n- docs/superpowers/specs/2026-08-06-landing-experimentacao-design.md\n[/Sources]"}
+{"kind":"slide","id":"sl/rfipmd","slide":14,"title":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textShapes":26}
+{"kind":"textbox","id":"sh/i98bytcb","slide":14,"text":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textPreview":"NOVA LANDING · DOCUMENTAÇÃO FUNCIONAL","textChars":37,"textLines":1,"bbox":[42,30,740,28]}
+{"kind":"textbox","id":"sh/5czutov2","slide":14,"text":"Os testes rastreiam os comportamentos essenciais","textPreview":"Os testes rastreiam os comportamentos essenciais","textChars":48,"textLines":1,"bbox":[42,70,1150,70]}
+{"kind":"shape","id":"sh/kbqd0juh","slide":14,"bbox":[42,145,1196,0]}
+{"kind":"textbox","id":"sh/7ehcvyds","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1178,650,60,34]}
+{"kind":"textbox","id":"sh/6d8v2tcn","slide":14,"text":"COMPORTAMENTO","textPreview":"COMPORTAMENTO","textChars":13,"textLines":1,"bbox":[42,176,370,26]}
+{"kind":"textbox","id":"sh/tgzux8vy","slide":14,"text":"EVIDÊNCIA DO TESTE","textPreview":"EVIDÊNCIA DO TESTE","textChars":18,"textLines":1,"bbox":[430,176,530,26]}
+{"kind":"textbox","id":"sh/sfqd43ud","slide":14,"text":"STATUS","textPreview":"STATUS","textChars":6,"textLines":1,"bbox":[1045,176,145,26]}
+{"kind":"textbox","id":"sh/fi1czid4","slide":14,"text":"Proposta e benefícios","textPreview":"Proposta e benefícios","textChars":21,"textLines":1,"bbox":[42,218,370,38]}
+{"kind":"textbox","id":"sh/uhsv6dcj","slide":14,"text":"Título + 4 benefícios","textPreview":"Título + 4 benefícios","textChars":21,"textLines":1,"bbox":[430,218,520,38]}
+{"kind":"textbox","id":"sh/cj25wj6l","slide":14,"text":"PASS","textPreview":"PASS","textChars":4,"textLines":1,"bbox":[1045,218,145,34]}
+{"kind":"shape","id":"sh/dkb65o76","slide":14,"bbox":[42,262,1156,0]}
+{"kind":"textbox","id":"sh/qhknu9of","slide":14,"text":"CTAs do produto","textPreview":"CTAs do produto","textChars":15,"textLines":1,"bbox":[42,284,370,38]}
+{"kind":"textbox","id":"sh/rit43ep0","slide":14,"text":"Links para /dashboard","textPreview":"Links para /dashboard","textChars":21,"textLines":1,"bbox":[430,284,520,38]}
+{"kind":"textbox","id":"sh/0725036x","slide":14,"text":"PASS","textPreview":"PASS","textChars":4,"textLines":1,"bbox":[1045,284,145,34]}
+{"kind":"shape","id":"sh/18v69o72","slide":14,"bbox":[42,328,1156,0]}
+{"kind":"textbox","id":"sh/elknytor","slide":14,"text":"Navegação interna","textPreview":"Navegação interna","textChars":17,"textLines":1,"bbox":[42,350,370,38]}
+{"kind":"textbox","id":"sh/zmto7ypc","slide":14,"text":"2 âncoras + 3 passos","textPreview":"2 âncoras + 3 passos","textChars":20,"textLines":1,"bbox":[430,350,520,38]}
+{"kind":"textbox","id":"sh/obm5436t","slide":14,"text":"PASS","textPreview":"PASS","textChars":4,"textLines":1,"bbox":[1045,350,145,34]}
+{"kind":"shape","id":"sh/9cv6d87e","slide":14,"bbox":[42,394,1156,0]}
+{"kind":"textbox","id":"sh/xsrmh8zi","slide":14,"text":"Remoção comercial","textPreview":"Remoção comercial","textChars":17,"textLines":1,"bbox":[42,416,370,38]}
+{"kind":"textbox","id":"sh/wri5o3yx","slide":14,"text":"Sem preço, oferta ou diálogo","textPreview":"Sem preço, oferta ou diálogo","textChars":28,"textLines":1,"bbox":[430,416,520,38]}
+{"kind":"textbox","id":"sh/v694vyhc","slide":14,"text":"PASS","textPreview":"PASS","textChars":4,"textLines":1,"bbox":[1045,416,145,34]}
+{"kind":"shape","id":"sh/a50nmtgr","slide":14,"bbox":[42,460,1156,0]}
+{"kind":"textbox","id":"sh/5wb6l8fe","slide":14,"text":"Prévia executiva","textPreview":"Prévia executiva","textChars":16,"textLines":1,"bbox":[42,482,370,38]}
+{"kind":"textbox","id":"sh/kv25s3y9","slide":14,"text":"Ilustração sem controles falsos","textPreview":"Ilustração sem controles falsos","textChars":31,"textLines":1,"bbox":[430,482,520,38]}
+{"kind":"textbox","id":"sh/ju9ojyho","slide":14,"text":"PASS","textPreview":"PASS","textChars":4,"textLines":1,"bbox":[1045,482,145,34]}
+{"kind":"shape","id":"sh/it0nqdg3","slide":14,"bbox":[42,526,1156,0]}
+{"kind":"textbox","id":"sh/l07mpoza","slide":14,"text":"Estrutura responsiva","textPreview":"Estrutura responsiva","textChars":20,"textLines":1,"bbox":[42,548,370,38]}
+{"kind":"textbox","id":"sh/0zy5gjyp","slide":14,"text":"Regiões + breakpoint do hero","textPreview":"Regiões + breakpoint do hero","textChars":28,"textLines":1,"bbox":[430,548,520,38]}
+{"kind":"textbox","id":"sh/qtcbalsb","slide":14,"text":"PASS","textPreview":"PASS","textChars":4,"textLines":1,"bbox":[1045,548,145,34]}
+{"kind":"shape","id":"sh/rulc3qtw","slide":14,"bbox":[42,592,1156,0]}
+{"kind":"textbox","id":"sh/cvutcvah","slide":14,"text":"Execução final","textPreview":"Execução final","textChars":14,"textLines":1,"bbox":[42,630,180,26]}
+{"kind":"textbox","id":"sh/dw3u50b2","slide":14,"text":"6/6 testes da landing · 54/54 testes da suíte · build aprovado","textPreview":"6/6 testes da landing · 54/54 testes da suíte · build aprovado","textChars":62,"textLines":1,"bbox":[220,622,900,38]}
+{"kind":"notes","id":"nt/rfipmd","slide":14,"text":"[Sources]\n- src/pages/Landing.test.tsx\n- Evidência da execução do commit aaf67f9\n[/Sources]"}
+{"kind":"slide","id":"sl/2mq35x","slide":15,"title":"RESULTADO E EVOLUÇÃO","textShapes":13}
+{"kind":"textbox","id":"sh/q547qhg3","slide":15,"text":"RESULTADO E EVOLUÇÃO","textPreview":"RESULTADO E EVOLUÇÃO","textChars":20,"textLines":1,"bbox":[42,34,430,28]}
+{"kind":"textbox","id":"sh/d8fq1wze","slide":15,"text":"A landing está pronta para\nexperimentação — e para aprender.","textPreview":"A landing está pronta para | experimentação — e para aprender.","textChars":60,"textLines":2,"bbox":[42,104,950,128]}
+{"kind":"textbox","id":"sh/c7mpsry9","slide":15,"text":"Entregue nesta versão","textPreview":"Entregue nesta versão","textChars":21,"textLines":1,"bbox":[42,290,340,34]}
+{"kind":"shape","id":"sh/3id8vmhc","slide":15,"bbox":[42,344,10,10]}
+{"kind":"textbox","id":"sh/2h47mhgr","slide":15,"text":"Mensagem executiva clara","textPreview":"Mensagem executiva clara","textChars":24,"textLines":1,"bbox":[70,336,452,48]}
+{"kind":"shape","id":"sh/p4vqxwzi","slide":15,"bbox":[42,398,10,10]}
+{"kind":"textbox","id":"sh/o3mporyx","slide":15,"text":"Acesso direto ao dashboard","textPreview":"Acesso direto ao dashboard","textChars":26,"textLines":1,"bbox":[70,390,452,48]}
+{"kind":"shape","id":"sh/7ex876xw","slide":15,"bbox":[42,452,10,10]}
+{"kind":"textbox","id":"sh/mdo7y1gb","slide":15,"text":"Responsividade e acessibilidade","textPreview":"Responsividade e acessibilidade","textChars":31,"textLines":1,"bbox":[70,444,452,48]}
+{"kind":"shape","id":"sh/8re50zal","slide":15,"bbox":[42,506,10,10]}
+{"kind":"textbox","id":"sh/9snm94b6","slide":15,"text":"Contrato automatizado","textPreview":"Contrato automatizado","textChars":21,"textLines":1,"bbox":[70,498,452,48]}
+{"kind":"textbox","id":"sh/mpwnypsv","slide":15,"text":"Próximas decisões","textPreview":"Próximas decisões","textChars":17,"textLines":1,"bbox":[670,290,340,34]}
+{"kind":"shape","id":"sh/nq547utg","slide":15,"bbox":[670,344,10,10]}
+{"kind":"textbox","id":"sh/0nulwzap","slide":15,"text":"Medir cliques nos CTAs","textPreview":"Medir cliques nos CTAs","textChars":22,"textLines":1,"bbox":[698,336,502,48]}
+{"kind":"shape","id":"sh/lo3m54ba","slide":15,"bbox":[670,398,10,10]}
+{"kind":"textbox","id":"sh/ylc3upsj","slide":15,"text":"Definir autenticação real","textPreview":"Definir autenticação real","textChars":25,"textLines":1,"bbox":[698,390,502,48]}
+{"kind":"shape","id":"sh/zml43ut4","slide":15,"bbox":[670,452,10,10]}
+{"kind":"textbox","id":"sh/cjulsfat","slide":15,"text":"Validar conteúdo com usuários","textPreview":"Validar conteúdo com usuários","textChars":29,"textLines":1,"bbox":[698,444,502,48]}
+{"kind":"shape","id":"sh/dk3m1kby","slide":15,"bbox":[670,506,10,10]}
+{"kind":"textbox","id":"sh/dgv25g32","slide":15,"text":"Reintroduzir oferta somente com evidência","textPreview":"Reintroduzir oferta somente com evidência","textChars":41,"textLines":1,"bbox":[698,498,502,48]}
+{"kind":"textbox","id":"sh/sfm1wbmh","slide":15,"text":"Princípio preservado: demonstrar valor antes de solicitar compromisso.","textPreview":"Princípio preservado: demonstrar valor antes de solicitar compromisso.","textChars":70,"textLines":1,"bbox":[42,630,1100,34]}
+{"kind":"notes","id":"nt/2mq35x","slide":15,"text":"[Sources]\n- docs/superpowers/specs/2026-08-06-landing-experimentacao-design.md\n- src/pages/Landing.tsx\n[/Sources]"}

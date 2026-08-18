@@ -1,0 +1,6 @@
+id,name,title,icon,path,execution
+marina-mercado,Marina Mercado,Estrategista de Marketing e Go-to-Market,📣,./agents/marina-mercado.agent.md,inline
+paulo-projetos,Paulo Projetos,Gestor do Projeto de Lançamento,📋,./agents/paulo-projetos.agent.md,inline
+ursula-usabilidade,Úrsula Usabilidade,Desenvolvedora Especialista em UX/UI,🎨,./agents/ursula-usabilidade.agent.md,subagent
+renata-revisao,Renata Revisão,Revisora de Prontidão e Qualidade,✅,./agents/renata-revisao.agent.md,subagent
+

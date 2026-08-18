@@ -1,0 +1,7 @@
+- [ ] Scaffold node backend em `application/src/backend`
+- [ ] Instalar dependências Express e Prisma
+- [ ] Inicializar `prisma init` e criar `schema.prisma`
+- [ ] Criar servidor Express na porta 3001 (`server.ts`)
+- [ ] Criar endpoints básicos de mock ou espelho da base antiga
+- [ ] Adaptar o projeto frontend para apontar a API Express em vez da Cloud
+- [ ] Validar inicialização do servidor e requests

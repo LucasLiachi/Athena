@@ -1,0 +1,20 @@
+{
+  "squad": "lancamento-projectflow",
+  "status": "completed",
+  "step": { "current": 7, "total": 7, "label": "decisao-go-no-go" },
+  "agents": [
+    { "id": "marina-mercado", "name": "Marina Mercado", "icon": "📣", "status": "done", "desk": { "col": 1, "row": 1 } },
+    { "id": "paulo-projetos", "name": "Paulo Projetos", "icon": "📋", "status": "done", "desk": { "col": 2, "row": 1 } },
+    { "id": "ursula-usabilidade", "name": "Úrsula Usabilidade", "icon": "🎨", "status": "done", "desk": { "col": 3, "row": 1 } },
+    { "id": "renata-revisao", "name": "Renata Revisão", "icon": "✅", "status": "done", "desk": { "col": 1, "row": 2 } }
+  ],
+  "handoff": {
+    "from": "renata-revisao",
+    "to": "checkpoint-decisao-go-no-go",
+    "message": "Revisão final emitiu HOLD (média 5,83); sponsor decidiu GO no escopo aprovado.",
+    "completedAt": "2026-08-06T10:35:00-03:00"
+  },
+  "startedAt": "2026-08-05T20:45:46.3310730-03:00",
+  "updatedAt": "2026-08-06T10:35:00-03:00",
+  "completedAt": "2026-08-06T10:35:00-03:00"
+}

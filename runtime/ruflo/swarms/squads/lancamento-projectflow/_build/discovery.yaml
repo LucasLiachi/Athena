@@ -1,0 +1,51 @@
+squad_code: "lancamento-projectflow"
+purpose: "Preparar a ProjectFlow para o lançamento, melhorar o produto e a experiência UX/UI, organizar a execução e conquistar os primeiros clientes com uma campanha multicanal."
+domain: "mixed"
+
+company:
+  name: "ProjectFlow"
+  tone: "Profissional, objetivo, analítico e acessível"
+  products: "Plataforma SaaS de gestão de projetos com dashboard executivo, tarefas, Timeline/Gantt, riscos, equipes e relatórios"
+
+language: "Português (Brasil)"
+
+context:
+  audience: "Público amplo; o lançamento deve identificar os segmentos com maior interesse e conversão"
+  platforms: "Landing page, LinkedIn e Instagram"
+  tone: "Profissional, claro, orientado a benefícios e demonstrações práticas"
+  primary_goal: "Conquistar os primeiros clientes"
+  execution_order:
+    - "Preparar produto, onboarding e UX/UI"
+    - "Organizar plano, responsáveis, dependências e critérios de lançamento"
+    - "Executar campanha em LinkedIn, Instagram e landing page"
+
+tools_needed:
+  - "web_search"
+  - "web_fetch"
+  - "code_execution"
+  - "apify"
+  - "image-fetcher"
+  - "image-creator"
+  - "image-ai-generator"
+  - "template-designer"
+  - "instagram-publisher"
+  - "blotato"
+
+investigation:
+  enabled: true
+  profiles:
+    - url: "https://www.linkedin.com/company/linearapp"
+      platform: "linkedin"
+      investigation_mode: "profile_3"
+    - url: "https://www.linkedin.com/company/asana"
+      platform: "linkedin"
+      investigation_mode: "profile_3"
+    - url: "https://www.youtube.com/@ClickUpProductivity"
+      platform: "youtube"
+      investigation_mode: "profile_3"
+
+target_formats:
+  - "linkedin-post"
+  - "instagram-feed"
+  - "instagram-reels"
+  - "instagram-stories"

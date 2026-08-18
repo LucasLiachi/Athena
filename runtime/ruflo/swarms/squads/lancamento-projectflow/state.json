@@ -1,0 +1,54 @@
+{
+  "squad": "lancamento-projectflow",
+  "status": "running",
+  "step": {
+    "current": 1,
+    "total": 7,
+    "label": "Governar lançamento"
+  },
+  "agents": [
+    {
+      "id": "marina-mercado",
+      "name": "Marina Mercado",
+      "icon": "📣",
+      "status": "idle",
+      "desk": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "id": "paulo-projetos",
+      "name": "Paulo Projetos",
+      "icon": "📋",
+      "status": "working",
+      "desk": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "id": "ursula-usabilidade",
+      "name": "Úrsula Usabilidade",
+      "icon": "🎨",
+      "status": "idle",
+      "desk": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "id": "renata-revisao",
+      "name": "Renata Revisão",
+      "icon": "✅",
+      "status": "idle",
+      "desk": {
+        "col": 1,
+        "row": 2
+      }
+    }
+  ],
+  "handoff": null,
+  "startedAt": "2026-08-11T21:17:20.958-03:00",
+  "updatedAt": "2026-08-11T21:17:20.958-03:00"
+}

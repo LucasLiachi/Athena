@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sqlite-governance": {
+      "command": "node",
+      "args": ["project-manager/src/backend/server.ts"],
+      "env": {
+        "DATABASE_URL": "file:../../database/app.db"
+      }
+    }
+  }
+}
